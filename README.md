@@ -63,13 +63,13 @@
 
 ## 📊 GitHub Stats & Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UsaidAkmalLino&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UsaidAkmal&theme=radical" alt="GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UsaidAkmalLino&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UsaidAkmal&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsaidAkmalLino&layout=compact&theme=radical&langs_count=8&custom_title=Top%20Languages&hide=java&card_width=445" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UsaidAkmal&layout=compact&theme=radical&langs_count=8&custom_title=Top%20Languages&hide=java&card_width=445" alt="Top Languages" />
 </p>
 
 ## 🛠️ Skills
@@ -83,6 +83,6 @@
 
 
 <!---
-UsaidAkmalLinoRabbanni/UsaidAkmalLinoRabbanni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UsaidAkmalLinoRabbanni/UsaidAkmal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
