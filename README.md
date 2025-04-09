@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Monaco&color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=Hallo+!+Welcome+to+My+Room;My+name+is+Circuitz+aka+Akmal+!)](https://github.com/UsaidAkmalLino)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Monaco&color=ffffff&size=45&center=true&vCenter=true&width=1000&lines=Hallo+!+Welcome+to+My+Room;My+name+is+Circuitz+aka+Akmal+!)](https://github.com/UsaidAkmal)
 
 <div align="center">
   <img src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif width="999"  height="500" ">
@@ -16,7 +16,7 @@
 
 # Technologies that I have experience with 🚀
 
-- 👋 Hi, I’m @UsaidAkmalLino 👨‍💻I'm just a stupid person who is a technology maniac
+- 👋 Hi, I’m @UsaidAkmal 👨‍💻I'm just a stupid person who is a technology maniac
 - 👀 I’m interested in all about technology
 - 🌱 I’m currently learning web and security networking
 - 👾 I’m Not playing by the rules,"if they were made by you".
@@ -83,6 +83,6 @@
 
 
 <!---
-UsaidAkmalLinoRabbanni/UsaidAkmal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+UsaidAkmal/UsaidAkmal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
