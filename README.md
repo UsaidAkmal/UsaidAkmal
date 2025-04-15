@@ -58,6 +58,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=white)
+![PeppermintOS](https://img.shields.io/badge/PeppermintOS-%23FF5722?style=for-the-badge&logo=linux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![RouterOS](https://img.shields.io/badge/RouterOS-D9252F?style=for-the-badge&logo=mikrotik&logoColor=white)
 
