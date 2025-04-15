@@ -61,6 +61,8 @@
 ![PeppermintOS](https://img.shields.io/badge/PeppermintOS-%23FF5722?style=for-the-badge&logo=linux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![RouterOS](https://img.shields.io/badge/RouterOS-D9252F?style=for-the-badge&logo=mikrotik&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=white)
+
 
 ## 📊 GitHub Stats & Streak
 <p align="center">
