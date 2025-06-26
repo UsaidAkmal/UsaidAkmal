@@ -41,6 +41,8 @@
 
 # Web Server 📡
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white)
+
 
 # Web Frameworks & Libraries 🌐
 ![Werkzeug](https://img.shields.io/badge/Werkzeug-000000?style=for-the-badge&logo=python&logoColor=white)
